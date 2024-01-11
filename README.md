@@ -2,9 +2,7 @@
 
 _____________________
 
-나의 블로그를 봤다면 알겠지만
-
-[블로그](https://blog-sigma-ebon-53.vercel.app/jgh)
+나의 블로그를 봤다면 알겠지만  [블로그](https://blog-sigma-ebon-53.vercel.app/jgh)
 
 나는 부전공으로 디자인을 잡았는데
 
