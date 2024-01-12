@@ -29,3 +29,19 @@ blender로 화분을 만들었다.
 [참고자료](https://velog.io/@zlekfl0311/Blender-%EA%B0%84%EB%8B%A8%ED%95%9C-%EB%82%98%EB%AC%B4-%EB%A7%8C%EB%93%A4%EA%B8%B0Particle-skin)
 
 [참고자료_2](https://dimblueisland.tistory.com/entry/%EB%AA%A8%EB%94%94%ED%8C%8C%EC%9D%B4%EC%96%B4-%EC%8A%A4%ED%82%A8-%EA%B8%B0%EB%8A%A5%EC%9C%BC%EB%A1%9C-%EB%A1%9C%EC%9A%B0%ED%8F%B4%EB%A6%AC-%EB%82%98%EB%AC%B4%EB%A7%8C%EB%93%A4%EA%B8%B0%EB%A5%BC-%EB%B0%B0%EC%9B%A0%EB%8B%A4-%E2%94%82%EC%86%90%EC%89%BD%EA%B2%8C-%EB%9E%9C%EB%8D%A4%ED%95%9C-%ED%98%95%ED%83%9C-%EB%A7%8C%EB%93%9C%EB%8A%94%EB%B2%95%E2%94%82%EB%A9%B4-%EC%9D%BC%EB%B6%80%EB%B6%84%EB%A7%8C-%EB%8B%A4%EB%A5%B8-%EB%A8%B8%ED%85%8C%EB%A6%AC%EC%96%BC-%EC%A0%81%EC%9A%A9%ED%95%98%EB%8A%94%EB%B2%95)
+
+<img width="378" alt="image" src="https://github.com/GSMIOTjgh/design/assets/132252115/65743cad-7044-455a-8629-9d7e9c3c990d">
+
+분재를 만들었다.
+
+로우폴리 형식의 분재인데
+
+일단 더 퀄리티를 높여볼 예정이고(새로 만들어서)
+
+로우폴리가 아닌 다른 형식으로도 만들어볼 예정이다.
+
+화분 속에 있는 분재의 모습에 따라 생긴게 달라지기 때문이다.
+
+로우폴리 형식은 게임 형식에 좀 더 잘 맞을 것이고
+
+현실적으로 만들면 웹사이트에 좀 더 잘 맞을 것이라고 생각한다.
