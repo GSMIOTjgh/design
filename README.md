@@ -19,6 +19,8 @@ figma를 사용하는데 동아리 소개 ppt를 만들던 도중
 
 나는 화분에 흙이 있고 새싹이 돋아있는 것을 표현할 것이다.
 
+**2024/1/11**
+
 blender로 화분을 만들었다.
 <img width="1280" alt="화면 캡처 2024-01-11 204440" src="https://github.com/GSMIOTjgh/design/assets/132252115/28806b40-27ab-4ba8-b5f8-d6d02b76f1fd">
 
