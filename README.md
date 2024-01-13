@@ -82,8 +82,7 @@ _________________________________________
 
 ## 명함 뒷면 확대 샷
 
-<img width="778" alt="image" src="https://github.com/GSMIOTjgh/design/assets/132252115/0f06eb24-9c4c-4fbd-816f-e5d2b2f30876">
-
+<img width="476" alt="image" src="https://github.com/GSMIOTjgh/design/assets/132252115/a2b6180b-ea11-4984-8681-25547d6a3558">
 
 ## 간단한 스타일 가이드
 
