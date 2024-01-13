@@ -92,3 +92,8 @@ _________________________________________
 
 왼쪽부터 **9FF2C6**, **C8FFE1**, **C8FFCA**이다
 
+## 다른 팀원의 명함 디자인(내가 함)
+
+<img width="556" alt="image" src="https://github.com/GSMIOTjgh/design/assets/132252115/0f70616d-df96-4dc9-9c4e-d074641493e7">
+
+
