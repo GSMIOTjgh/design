@@ -84,4 +84,7 @@ _________________________________________
 
 <img width="643" alt="image" src="https://github.com/GSMIOTjgh/design/assets/132252115/9ac524fb-5c1c-4a50-9d55-b7a4a85c1438">
 
+색의 Hex코드는
+
+왼쪽부터 **9FF2C6**, **C8FFE1**, **C8FFCA**이다
 
