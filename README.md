@@ -80,6 +80,11 @@ _________________________________________
 
 <img width="1280" alt="화면 캡처 2024-01-13 200516" src="https://github.com/GSMIOTjgh/design/assets/132252115/32a00c07-552e-430e-9b59-3f375b2cd668">
 
+## 명함 뒷면 확대 샷
+
+<img width="778" alt="image" src="https://github.com/GSMIOTjgh/design/assets/132252115/0f06eb24-9c4c-4fbd-816f-e5d2b2f30876">
+
+
 ### 간단한 스타일 가이드
 
 <img width="643" alt="image" src="https://github.com/GSMIOTjgh/design/assets/132252115/9ac524fb-5c1c-4a50-9d55-b7a4a85c1438">
