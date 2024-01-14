@@ -97,8 +97,8 @@ _________________________________________
 
 <img width="754" alt="정승표깃" src="https://github.com/GSMIOTjgh/design/assets/132252115/a16f6982-24e5-45a3-9d39-25747a4442b8">
 
-<img width="663" alt="곽민성깃" src="https://github.com/GSMIOTjgh/design/assets/132252115/0d52c94e-bdaa-41a0-9149-5b48596f8ad5">
+<img width="754" alt="곽민성깃" src="https://github.com/GSMIOTjgh/design/assets/132252115/0d52c94e-bdaa-41a0-9149-5b48596f8ad5">
 
-<img width="641" alt="명재원깃" src="https://github.com/GSMIOTjgh/design/assets/132252115/44c47b5e-a1b1-4eed-988a-35ff16568a0a">
+<img width="754" alt="명재원깃" src="https://github.com/GSMIOTjgh/design/assets/132252115/44c47b5e-a1b1-4eed-988a-35ff16568a0a">
 
-<img width="642" alt="김도연깃" src="https://github.com/GSMIOTjgh/design/assets/132252115/8917b632-19c7-4bc4-b39e-2d4d114a4641">
+<img width="754" alt="김도연깃" src="https://github.com/GSMIOTjgh/design/assets/132252115/8917b632-19c7-4bc4-b39e-2d4d114a4641">
