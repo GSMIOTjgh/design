@@ -97,11 +97,11 @@ _________________________________________
 
 <img width="754" alt="정승표" src="https://github.com/GSMIOTjgh/design/assets/132252115/9f2722d3-6a17-4501-b58a-ee34cdde299d">
 
-<img width="663" alt="곽민성" src="https://github.com/GSMIOTjgh/design/assets/132252115/bbcca20a-6061-4e66-ae20-a0baa747718d">
+<img width="754" alt="곽민성" src="https://github.com/GSMIOTjgh/design/assets/132252115/bbcca20a-6061-4e66-ae20-a0baa747718d">
 
-<img width="641" alt="명재원" src="https://github.com/GSMIOTjgh/design/assets/132252115/7d63d9dc-829e-41a1-8fea-31f56495e02d">
+<img width="754" alt="명재원" src="https://github.com/GSMIOTjgh/design/assets/132252115/7d63d9dc-829e-41a1-8fea-31f56495e02d">
 
-<img width="642" alt="김도연" src="https://github.com/GSMIOTjgh/design/assets/132252115/cc5100ee-ae5b-4475-8af6-aa9c3e69db58">
+<img width="754" alt="김도연" src="https://github.com/GSMIOTjgh/design/assets/132252115/cc5100ee-ae5b-4475-8af6-aa9c3e69db58">
 
 
 
