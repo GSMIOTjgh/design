@@ -95,16 +95,10 @@ _________________________________________
 
 ## 다른 팀원의 명함 디자인(내가 함)
 
-<img width="754" alt="정승표" src="https://github.com/GSMIOTjgh/design/assets/132252115/9f2722d3-6a17-4501-b58a-ee34cdde299d">
+<img width="754" alt="정승표깃" src="https://github.com/GSMIOTjgh/design/assets/132252115/a16f6982-24e5-45a3-9d39-25747a4442b8">
 
-<img width="754" alt="곽민성" src="https://github.com/GSMIOTjgh/design/assets/132252115/bbcca20a-6061-4e66-ae20-a0baa747718d">
+<img width="663" alt="곽민성깃" src="https://github.com/GSMIOTjgh/design/assets/132252115/0d52c94e-bdaa-41a0-9149-5b48596f8ad5">
 
-<img width="754" alt="명재원" src="https://github.com/GSMIOTjgh/design/assets/132252115/7d63d9dc-829e-41a1-8fea-31f56495e02d">
+<img width="641" alt="명재원깃" src="https://github.com/GSMIOTjgh/design/assets/132252115/44c47b5e-a1b1-4eed-988a-35ff16568a0a">
 
-<img width="754" alt="김도연" src="https://github.com/GSMIOTjgh/design/assets/132252115/cc5100ee-ae5b-4475-8af6-aa9c3e69db58">
-
-
-
-
-
-
+<img width="642" alt="김도연깃" src="https://github.com/GSMIOTjgh/design/assets/132252115/8917b632-19c7-4bc4-b39e-2d4d114a4641">
