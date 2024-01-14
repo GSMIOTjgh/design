@@ -78,7 +78,8 @@ _________________________________________
 
 ## 명함 앞면 확대 샷
 
-<img width="1280" alt="화면 캡처 2024-01-13 200516" src="https://github.com/GSMIOTjgh/design/assets/132252115/32a00c07-552e-430e-9b59-3f375b2cd668">
+<img width="1280" alt="image" src="https://github.com/GSMIOTjgh/design/assets/132252115/b1092423-d3d5-453c-8551-94c2eaff9ebc">
+
 
 ## 명함 뒷면 확대 샷
 
